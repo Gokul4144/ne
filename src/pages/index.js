@@ -1,4 +1,4 @@
-import QuizTimer from "../components/QuizTimer";
+import DiscountTimer from "../components/QuizTimer";
 import LivePlayers from "../components/LivePlayers";
 
 const styles = {
